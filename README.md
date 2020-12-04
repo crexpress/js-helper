@@ -1,2 +1,3 @@
 # js-helper
-Javascript helpers that were used in my old projects
+
+[Deprecated] Javascript and jQuery util file that I used in my old projects back in 2013.
